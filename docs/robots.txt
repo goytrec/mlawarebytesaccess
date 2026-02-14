@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://malwarebytesaccess.readthedocs.io/en/latest/
+Sitemap: https://malwarebyteshelplogin.readthedocs.io/en/latest/
 
