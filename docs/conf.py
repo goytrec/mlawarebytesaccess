@@ -25,6 +25,6 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://malwarebytesaccess.readthedocs.io/en/latest/'
+html_baseurl = 'https://malwarebyteshelplogin.readthedocs.io/en/latest/'
 
 
